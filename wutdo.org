@@ -1,5 +1,4 @@
 * make home/demo page
 ** bs story
-** social media
 ** links to other articles
 ** ads
