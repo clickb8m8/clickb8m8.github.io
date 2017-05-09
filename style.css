@@ -35,3 +35,9 @@ p {
 img {
     width: 50%;
 }
+
+video {
+    display: block;
+    margin: auto;
+    width: 40%;
+}
