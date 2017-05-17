@@ -26,6 +26,23 @@ p {
     width: 60%;
 }
 
+ol {
+    position: relative;
+    left: 20%;
+    width: 60%;
+}
+
+li {
+    font-size: 200%;
+    font-weight: bold;
+}
+
+.share {
+    position: relative;
+    width: 100%;
+    left: 25%;
+}
+
 .content {
     background-color: black;
 }
@@ -40,4 +57,10 @@ video {
     display: block;
     margin: auto;
     width: 40%;
+}
+
+iframe {
+    position: relative;
+    left: 0;
+    right: 0;
 }
